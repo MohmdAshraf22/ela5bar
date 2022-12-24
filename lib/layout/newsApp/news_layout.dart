@@ -6,7 +6,6 @@ import 'package:news/layout/newsApp/cubit/cubit.dart';
 import 'package:news/layout/newsApp/cubit/states.dart';
 import 'package:news/modules/news_app/search/search_screen.dart';
 import 'package:news/shared/components/components.dart';
-import 'package:news/shared/network/remote/dio_helper.dart';
 
 class NewsLayout extends StatelessWidget {
 

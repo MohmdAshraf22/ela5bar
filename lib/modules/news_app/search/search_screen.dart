@@ -31,8 +31,7 @@ class SearchScreen extends StatelessWidget {
                       if(value.isEmpty)
                       {
                         return 'Search must not be empty';
-                      }
-                      return null ;
+                      }return null ;
                     },
                   ),
                 ),

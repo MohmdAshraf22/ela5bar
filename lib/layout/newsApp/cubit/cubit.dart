@@ -68,7 +68,6 @@ class news extends Cubit<NewsStates>
        emit(NewsGetBusinessErrorState(error.toString()));
      });
    }
-
   List<dynamic> health = [];
   getScience(){
     emit(NewsGetScienceLoadingState());

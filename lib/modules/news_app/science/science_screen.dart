@@ -23,6 +23,5 @@ class ScienceScreen extends StatelessWidget {
           }
         }
     );
-
   }
 }

@@ -21,6 +21,5 @@ class SportsScreen extends StatelessWidget {
           }
         }
     );
-
   }
 }

@@ -19,7 +19,6 @@ Widget defaultformfield({
   ValueChanged<String>? onChange,
   Color? iconColor,
   Color? textColor,
-
 }) => TextFormField(
   onFieldSubmitted: onSubmit,
   enabled: isClickable,

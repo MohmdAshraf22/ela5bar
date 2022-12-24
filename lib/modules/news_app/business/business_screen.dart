@@ -3,7 +3,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:news/layout/newsApp/cubit/cubit.dart';
 import 'package:news/layout/newsApp/cubit/states.dart';
 import 'package:news/shared/components/components.dart';
-
 class BusinessScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
